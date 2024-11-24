@@ -1,1 +1,1 @@
-# Restaurant-Ordering-System
+A Java-based console application for managing a restaurant's ordering system. The system allows customers to register, log in, view the menu, place orders, and view order history. Admin users can manage the menu, view all orders, and update their profile.
